@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@600&family=Noto+Sans+TC:wght@400;700&display=swap');
+
+@import "./scss/bootstrap.scss";
+// Default variable overrides
+
+$secondary: #858377;
+.font-baloo {
+  font-family: 'Baloo Tamma 2', cursive;
+}
+
+// Required
+@import "layout";
+@import "process"
