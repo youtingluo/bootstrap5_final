@@ -11641,34 +11641,34 @@ fieldset:disabled .btn {
   font-weight: bold;
 }
 
-.custom-card {
+.case-card {
   overflow: hidden;
 }
 
-.custom-card img {
+.case-card img {
   -o-object-fit: cover;
      object-fit: cover;
   border-top-left-radius: .6rem;
   border-top-right-radius: .6rem;
 }
 
-.custom-card .card-text {
+.case-card .card-text {
   color: #373A3C;
 }
 
-.custom-card .badge-1 {
+.case-card .badge-1 {
   background-color: #E8E8DB;
   color: #858377;
   font-size: 12px;
 }
 
-.custom-card .badge-2 {
+.case-card .badge-2 {
   background-color: #858377;
   color: #fff;
   font-size: 12px;
 }
 
-.custom-card .badge-2 .text {
+.case-card .badge-2 .text {
   color: #FFDF65;
 }
 
